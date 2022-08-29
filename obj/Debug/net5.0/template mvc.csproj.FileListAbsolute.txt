@@ -1,0 +1,40 @@
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\appsettings.json
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\template mvc.exe
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\template mvc.deps.json
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\template mvc.runtimeconfig.json
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\template mvc.runtimeconfig.dev.json
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\template mvc.dll
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\ref\template mvc.dll
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\template mvc.pdb
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\template mvc.Views.dll
+C:\Users\jihen\OneDrive\Bureau\template mvc\bin\Debug\net5.0\template mvc.Views.pdb
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.csproj.AssemblyReference.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.AssemblyInfoInputs.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.AssemblyInfo.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.csproj.CoreCompileInputs.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.RazorAssemblyInfo.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.RazorAssemblyInfo.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\staticwebassets\template mvc.StaticWebAssets.Manifest.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\staticwebassets\template mvc.StaticWebAssets.xml
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\scopedcss\bundle\template mvc.styles.css
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.TagHelpers.input.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.TagHelpers.output.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.RazorCoreGenerate.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.RazorTargetAssemblyInfo.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.RazorTargetAssemblyInfo.cs
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.Views.pdb
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.dll
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\ref\template mvc.dll
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.pdb
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.genruntimeconfig.cache
+C:\Users\jihen\OneDrive\Bureau\template mvc\obj\Debug\net5.0\template mvc.csproj.CopyComplete
